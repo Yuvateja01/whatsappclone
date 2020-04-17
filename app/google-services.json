@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477316320687",
+    "firebase_url": "https://whatsapp-bedac.firebaseio.com",
+    "project_id": "whatsapp-bedac",
+    "storage_bucket": "whatsapp-bedac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477316320687:android:5b9aaa26adef3797bcf35a",
+        "android_client_info": {
+          "package_name": "teja_123.example.android.mywts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477316320687-tnetec5g2bmqfebo98hfm1btq244e3fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teja_123.example.android.mywts",
+            "certificate_hash": "50b9acb592228e4b80ce4a57a01ee76a2a56ea5f"
+          }
+        },
+        {
+          "client_id": "477316320687-7qi2384givl3b1jhp6s7rr0a10psmh3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJKrM6oFtm8AOg4OXwZ2uXG9tcvpMSAXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477316320687-7qi2384givl3b1jhp6s7rr0a10psmh3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
